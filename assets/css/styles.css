@@ -1,0 +1,12 @@
+.int-button {
+	transition: 0.3s;
+}
+
+.int-button:hover {
+	transform: scale(1.1,1.1);
+	cursor: pointer;
+}
+
+#delete-post:hover {
+	cursor: pointer;
+}

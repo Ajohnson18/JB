@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+#gordons, #brave, #bare, #eastern, #green, #inlet {
+	
+}
+
+.photo-gallery .photos img {
+	opacity: 0.9;
+	transition: 0.3s;
+}
+
+.photo-gallery .photos img:hover {
+	opacity: 1;
+	transform: scale(1.1,1.1);
+	cursor: pointer;
+}
+
+.buttonp {
+	transition:0.3s;
+}
+
+.buttonp:hover {
+	transform: scale(1.2,1.2);
+}

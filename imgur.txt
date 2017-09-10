@@ -1,0 +1,4 @@
+username: ajohnso18
+password: Hancock10
+
+https://api.imgur.com/oauth2/authorize?client_id=e98e311327c4354&response_type=token
